@@ -5,7 +5,7 @@
 ## Icon terms
 Microsoft permits the use of these icons in architectural diagrams, training materials, or documentation. You may copy, distribute, and display the icons only for the permitted use unless granted explicit permission by Microsoft. Microsoft reserves all other rights.
 
-## Icon libraries for DrawIO (app.diagrams.net)
+## Icon sets for DrawIO (app.diagrams.net)
 
 [ai + machine learning](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2Faugust-2023%2Fai%20%2B%20machine%20learning.xml)
 
