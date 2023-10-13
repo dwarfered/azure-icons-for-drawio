@@ -7,6 +7,9 @@ Microsoft permits the use of these icons in architectural diagrams, training mat
 
 ## Icon sets for DrawIO (app.diagrams.net)
 
+[All](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2Faugust-2023%2F1-all.xml)
+___
+
 [ai + machine learning](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2Faugust-2023%2Fai%20%2B%20machine%20learning.xml)
 
 [analytics](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2Faugust-2023%2Fanalytics.xml)
