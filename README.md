@@ -1,4 +1,6 @@
-# azure-architecture-icons-for-drawio
+# Azure Architecture Icons for DrawIO
+
+A collection of Azure architecture icons, for use in DrawIO (diagrams.net).
 
 [https://learn.microsoft.com/en-us/azure/architecture/icons/](https://learn.microsoft.com/en-us/azure/architecture/icons/)
 
