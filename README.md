@@ -57,8 +57,8 @@ permission by Microsoft. Microsoft reserves all other rights.
 
 ## Alternatively, save locally and use Open Library within draw.io
 
-<img src="readme-files/screen-1.png" width="800">
+<img src="readme-files/screen-1.png" width="600">
 
-<img src="readme-files/screen-2.png" width="800">
+<img src="readme-files/screen-2.png" width="600">
 
 
