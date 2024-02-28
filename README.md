@@ -8,6 +8,15 @@ Architecture diagrams play a crucial role in conveying design choices and illust
 
 [https://learn.microsoft.com/en-us/azure/architecture/icons/](https://learn.microsoft.com/en-us/azure/architecture/icons/)
 
+## Project Items
+
+<p align="center">
+<img src="readme-files/azure-styling.png" width="200"/>
+</p>
+
+- `.components\`
+- No license restriction.
+
 ## Azure Public Service Icons
 
 ### Do's
