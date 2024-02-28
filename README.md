@@ -55,7 +55,7 @@ permission by Microsoft. Microsoft reserves all other rights.
     - [storage](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2Fazure-public-service-icons%2Ffebruary-2024%2Fstorage.xml)
     - [web](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2Fazure-public-service-icons%2Ffebruary-2024%2Fweb.xml)
 
-## Alternatively, save locally and use Open Library within draw.io
+## Alternatively, you can download and save the files locally, then utilise the Open Library feature within draw.io
 
 <img src="readme-files/screen-1.png" width="600">
 
