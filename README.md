@@ -16,8 +16,11 @@ Architecture diagrams play a crucial role in conveying design choices and illust
 
 - [azure styling](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2Fcomponents%2Fazure-styling.xml)
 
-- `.components\`
-- No license restriction.
+### Terms
+
+`.components\`
+
+No license restriction.
 
 ## Azure Public Service Icons
 
