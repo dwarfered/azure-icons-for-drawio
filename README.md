@@ -22,24 +22,38 @@ Architecture diagrams play a crucial role in conveying design choices and illust
 
 No license restriction.
 
-## Azure Public Service Icons
-
-### Do's
-- Use the icons to illustrate how products can work together
-- In diagrams, we recommend to include the product name somewhere close to the icon
-- Use the icons as they would appear within Azure
-
-### Don'ts
-- Don’t crop, flip or rotate icons
-- Don’t distort or change icon shape in any way
-- Don’t use Microsoft product icons to represent your product or service
+## Azure Architecture Icons
 
 ### Terms
 Microsoft permits the use of these icons in architectural diagrams, training materials, or documentation.
 You may copy, distribute, and display the icons only for the permitted use unless granted explicit
 permission by Microsoft. Microsoft reserves all other rights.
 
+####  Do's
+- Use the icons to illustrate how products can work together
+- In diagrams, we recommend to include the product name somewhere close to the icon
+- Use the icons as they would appear within Azure
+
+#### Don'ts
+- Don’t crop, flip or rotate icons
+- Don’t distort or change icon shape in any way
+- Don’t use Microsoft product icons to represent your product or service
+
+##  Microsoft 365 Architecture Icons
+
+### Terms
+Microsoft permits the use of these icons in architectural diagrams, training materials, or documentation. You may copy, distribute, and display the icons only for the permitted use unless granted explicit permission by Microsoft. Microsoft reserves all other rights.
+
 ## Open in draw.io online
+
+- [microsoft 365 architecture icons](/)
+
+    - [microsoft blue](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2F2024-microsoft-365-content-icons%2Fmicrosoft-blue.xml)
+    - [microsoft purple](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2F2024-microsoft-365-content-icons%2Fmicrosoft-purple.xml)
+    - [planner green](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2F2024-microsoft-365-content-icons%2Fplanner-green.xml)
+    - [project green](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2F2024-microsoft-365-content-icons%2Fproject-green.xml)
+    - [sharepoint teal](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2F2024-microsoft-365-content-icons%2Fsharepoint-teal.xml)
+    - [teams purple](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2F2024-microsoft-365-content-icons%2Fteams-purple.xml)
 
 - [azure public service icons](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2Fazure-public-service-icons%2Ffebruary-2024%2Fazure-public-service-icons.xml)
 
