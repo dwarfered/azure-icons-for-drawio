@@ -10,7 +10,7 @@ Architecture diagrams play a crucial role in conveying design choices and illust
 
 ## Project Developed Icons
 
-### Azure Styling
+### Azure Architecture Styling
 <p align="center">
 <img src="readme-files/azure-styling.png" width="200"/>
 </p>
@@ -24,9 +24,12 @@ Architecture diagrams play a crucial role in conveying design choices and illust
 
 `.components\`
 
-No license restriction.
+No license restrictions.
 
-## Azure Architecture Icons
+## Icons
+
+- Azure Architecture Icons
+- Microsoft 365 Architecture Icons
 
 ### Terms
 Microsoft permits the use of these icons in architectural diagrams, training materials, or documentation.
@@ -42,11 +45,6 @@ permission by Microsoft. Microsoft reserves all other rights.
 - Don’t crop, flip or rotate icons
 - Don’t distort or change icon shape in any way
 - Don’t use Microsoft product icons to represent your product or service
-
-##  Microsoft 365 Architecture Icons
-
-### Terms
-Microsoft permits the use of these icons in architectural diagrams, training materials, or documentation. You may copy, distribute, and display the icons only for the permitted use unless granted explicit permission by Microsoft. Microsoft reserves all other rights.
 
 ## Open in draw.io online
 
