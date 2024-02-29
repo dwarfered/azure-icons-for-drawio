@@ -6,8 +6,6 @@
 
 Architecture diagrams play a crucial role in conveying design choices and illustrating the connections among different components within a specific workload. This repository hosts a collection of Azure architecture icons, featuring Azure product symbols, to assist you in crafting a bespoke architecture diagram using draw.io.
 
-[https://learn.microsoft.com/en-us/azure/architecture/icons/](https://learn.microsoft.com/en-us/azure/architecture/icons/)
-
 ## Project Developed Icons
 
 ### Azure Architecture Styling
@@ -26,7 +24,10 @@ Architecture diagrams play a crucial role in conveying design choices and illust
 
 No license restrictions.
 
-## Icons
+## Microsoft Architecture Icons
+
+[https://learn.microsoft.com/en-us/azure/architecture/icons/](https://learn.microsoft.com/en-us/azure/architecture/icons/)
+
 
 - Azure Architecture Icons
 - Microsoft 365 Architecture Icons
