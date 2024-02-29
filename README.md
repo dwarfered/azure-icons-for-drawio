@@ -1,4 +1,4 @@
-# Azure Architecture for draw.io
+# Azure Architecture Icons for draw.io
 
 <p align="center">
 <img src="readme-files/repository-azure-architecture-drawio-template.png" width="600"/>
