@@ -14,8 +14,6 @@ Architecture diagrams play a crucial role in conveying design choices and illust
 <img src="readme-files/azure-styling.png" width="200"/>
 </p>
 
-- [azure styling](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2Fcomponents%2Fazure-styling.xml)
-
 ### Terms
 
 `.components\`
@@ -46,14 +44,7 @@ Microsoft permits the use of these icons in architectural diagrams, training mat
 
 ## Open in draw.io online
 
-- [microsoft 365 architecture icons](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2F2024-microsoft-365-content-icons%2F2024-microsoft-365-content-icons.xml)
-
-    - [microsoft blue](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2F2024-microsoft-365-content-icons%2Fmicrosoft-blue.xml)
-    - [microsoft purple](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2F2024-microsoft-365-content-icons%2Fmicrosoft-purple.xml)
-    - [planner green](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2F2024-microsoft-365-content-icons%2Fplanner-green.xml)
-    - [project green](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2F2024-microsoft-365-content-icons%2Fproject-green.xml)
-    - [sharepoint teal](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2F2024-microsoft-365-content-icons%2Fsharepoint-teal.xml)
-    - [teams purple](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2F2024-microsoft-365-content-icons%2Fteams-purple.xml)
+- [azure styling](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2Fcomponents%2Fazure-styling.xml)
 
 - [azure public service icons](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2Fazure-public-service-icons%2Ffebruary-2024%2Fazure-public-service-icons.xml)
 
@@ -86,6 +77,15 @@ Microsoft permits the use of these icons in architectural diagrams, training mat
     - [security](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2Fazure-public-service-icons%2Ffebruary-2024%2Fsecurity.xml)
     - [storage](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2Fazure-public-service-icons%2Ffebruary-2024%2Fstorage.xml)
     - [web](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2Fazure-public-service-icons%2Ffebruary-2024%2Fweb.xml)
+
+- [microsoft 365 architecture icons](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2F2024-microsoft-365-content-icons%2F2024-microsoft-365-content-icons.xml)
+
+    - [microsoft blue](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2F2024-microsoft-365-content-icons%2Fmicrosoft-blue.xml)
+    - [microsoft purple](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2F2024-microsoft-365-content-icons%2Fmicrosoft-purple.xml)
+    - [planner green](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2F2024-microsoft-365-content-icons%2Fplanner-green.xml)
+    - [project green](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2F2024-microsoft-365-content-icons%2Fproject-green.xml)
+    - [sharepoint teal](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2F2024-microsoft-365-content-icons%2Fsharepoint-teal.xml)
+    - [teams purple](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2F2024-microsoft-365-content-icons%2Fteams-purple.xml)
 
 ## Alternatively, you can download and save the files locally, then utilise the Open Library feature within draw.io
 
