@@ -10,10 +10,12 @@ Architecture diagrams play a crucial role in conveying design choices and illust
 
 ## Project Developed Icons
 
+### Azure Styling
 <p align="center">
 <img src="readme-files/azure-styling.png" width="200"/>
 </p>
 
+### MFA Methods
 <p align="center">
 <img src="readme-files/mfa-methods.png" width="200"/>
 </p>
@@ -49,6 +51,8 @@ Microsoft permits the use of these icons in architectural diagrams, training mat
 ## Open in draw.io online
 
 - [azure styling](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2Fcomponents%2Fazure-styling.xml)
+
+- [mfa methods](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2Fcomponents%2Fmfa-methods.xml)
 
 - [azure public service icons](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2Fazure-public-service-icons%2Ffebruary-2024%2Fazure-public-service-icons.xml)
 
