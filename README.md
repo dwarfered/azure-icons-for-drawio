@@ -8,7 +8,7 @@ Architecture diagrams play a crucial role in conveying design choices and illust
 
 ## Open in draw.io online
 
-- [all azure public service icons](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2Fazure-public-service-icons%2Fjuly-2024%2Fall-azure-public-service-icons.xml)
+- [all azure public service icons](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2Fall-azure-public-service-icons.xml)
 
 - [microsoft 365 architecture icons](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2F2024-microsoft-365-content-icons%2F2024-microsoft-365-content-icons.xml)
 
