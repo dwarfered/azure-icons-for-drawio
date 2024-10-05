@@ -6,6 +6,16 @@
 
 Architecture diagrams play a crucial role in conveying design choices and illustrating the connections among different components within a specific workload. This repository hosts a collection of Azure architecture icons, featuring Azure product symbols, to assist you in crafting a bespoke architecture diagram using draw.io.
 
+## Open in draw.io online
+
+- [azure styling](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2Fcomponents%2Fazure-styling.xml)
+
+- [mfa methods](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2Fcomponents%2Fmfa-methods.xml)
+
+- [azure public service icons](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2Fazure-public-service-icons%2Fjuly-2024%2F_all-azure-public-service-icons.xml)
+
+- [microsoft 365 architecture icons](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2F2024-microsoft-365-content-icons%2F2024-microsoft-365-content-icons.xml)
+
 ## Project Developed Icons
 
 ### Azure Architecture Styling
@@ -47,15 +57,7 @@ permission by Microsoft. Microsoft reserves all other rights.
 - Don’t distort or change icon shape in any way
 - Don’t use Microsoft product icons to represent your product or service
 
-## Open in draw.io online
 
-- [azure styling](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2Fcomponents%2Fazure-styling.xml)
-
-- [mfa methods](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2Fcomponents%2Fmfa-methods.xml)
-
-- [azure public service icons](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2Fazure-public-service-icons%2Fjuly-2024%2F_all-azure-public-service-icons.xml)
-
-- [microsoft 365 architecture icons](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2F2024-microsoft-365-content-icons%2F2024-microsoft-365-content-icons.xml)
 
 ## Alternatively, you can download and save the files locally, then utilise the Open Library feature within draw.io
 
