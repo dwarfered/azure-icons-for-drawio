@@ -4,7 +4,7 @@
 <img src="readme-files/repository-azure-architecture-drawio-template.png" width="600"/>
 </p>
 
-This repository hosts a collection of Azure architecture icons, featuring Azure product symbols, to assist you in creating architecture diagrams in draw.io.
+A collection of Azure icons, featuring Azure product symbols, to assist in crafting architecture diagrams in draw.io.
 
 ## Open in draw.io online
 
