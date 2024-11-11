@@ -4,7 +4,7 @@
 <img src="readme-files/repository-azure-architecture-drawio-template.png" width="600"/>
 </p>
 
-Architecture diagrams play a crucial role in conveying design choices and illustrating the connections among different components within a specific workload. This repository hosts a collection of Azure architecture icons, featuring Azure product symbols, to assist you in crafting a bespoke architecture diagram using draw.io.
+This repository hosts a collection of Azure architecture icons, featuring Azure product symbols, to assist you in creating architecture diagrams in draw.io.
 
 ## Open in draw.io online
 
